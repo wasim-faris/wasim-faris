@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Wasim%20Faris&fontSize=75&animation=twinkling&customColor=00d4ff,7b2cbf" alt="Wasim Faris profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wasim%20Faris&fontSize=70&animation=twinkling&customColor=00d4ff,7b2cbf" alt="Wasim Faris profile header" />
 </p>
 
 <!-- Title -->
@@ -19,80 +19,98 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+End-to-End+Products;React+%2B+Django+%7C+Scalable+Web+Apps;Turning+Ideas+into+Reality"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00d4ff&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Modern+Web+Products;React+%2B+Django+%7C+Scalable+Apps;Turning+Ideas+into+Reality"
     alt="Typing SVG"
   />
 </p>
 
-<!-- Good Cartoon Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8vP7oq7p3qM/giphy.gif" width="480" alt="Funny Coding Animation">
+<img src="https://media.giphy.com/media/3o7TKsQ8vP7oq7p3qM/giphy.gif" width="450" alt="Funny Coding Animation">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
 
-<!-- System Access -->
+<!-- System Access Section -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&section=header&text=SYSTEM%20ACCESS&fontSize=30&animation=twinkling" alt="System access section title" />
 </p>
 
 <p align="center">
   <a href="https://wasim-faris.github.io/">
-    <img width="82%" src="https://via.placeholder.com/1100x280/0a0a1f/00d4ff?text=🚀+MY+PORTFOLIO+COMING+SOON" alt="Hirad System portal" />
+    <img width="82%" src="https://via.placeholder.com/1100x300/0a0a1f/00d4ff?text=🚀+MY+PORTFOLIO+COMING+SOON" alt="Wasim System portal" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wasim-faris">
+    <img width="32%" src="https://via.placeholder.com/350x180/1a0033/00ffcc?text=SkillsSwapper" alt="SkillsSwapper" />
   </a>
 </p>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/wasim-faris)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=CORE+STACK&fontSize=28&animation=twinkling" alt="System core panel" />
+</p>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/wasim-faris)
+
 # 🛠 Technologies, Projects, and Domains
 
-<table border="0" cellspacing="15" cellpadding="0" width="100%">
+<table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="45%" valign="top" align="center">
-<h3>🛠 Core Stack</h3>
-<table align="center" cellspacing="6" cellpadding="8">
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
+<h3>🛠 Technologies</h3>
+<br>
+<table align="center" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="38"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
   </tr>
 </table>
 </td>
 
-<td width="28%" valign="top" align="center">
-<h3>🚀 Featured Project</h3>
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+<h3>🚀 Projects</h3>
 <br>
-<a href="https://github.com/wasim-faris">
-  <img src="https://via.placeholder.com/260x260/1a0033/00ffcc?text=SkillsSwapper" width="230" alt="Projects">
-</a>
-<p><strong>SkillsSwapper</strong><br>Peer-to-Peer Skill Exchange Platform</p>
+<div style="width:220px;">
+  <a href="https://github.com/wasim-faris">
+    <img src="https://via.placeholder.com/220x220/1a0033/00ffcc?text=SkillsSwapper" width="220" alt="Projects navigation panel">
+  </a>
+</div>
 </td>
 
-<td width="27%" valign="top" align="center">
-<h3>🌐 Focus Area</h3>
+<!-- DOMAINS -->
+<td width="260" valign="top" align="center">
+<h3>🌐 Domains</h3>
 <br>
-<img src="https://via.placeholder.com/230x230/0f0f23/00d4ff?text=FULL+STACK+WEB" width="220" alt="AI Domains">
+<div style="width:220px;">
+    <img src="https://via.placeholder.com/220x220/0f0f23/00d4ff?text=FULL+STACK+WEB+DEVELOPMENT" width="220" alt="Web Development">
+</div>
 </td>
 </tr>
 </table>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/wasim-faris)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/wasim-faris)
 
 ### 📊 Vital Statistics
 <p align="center">
@@ -105,12 +123,14 @@
   <img src="https://komarev.com/ghpvc/?username=wasim-faris&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" alt="Views" />
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
 
-<table width="100%" border="0" cellspacing="15" cellpadding="0">
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="35%" valign="top">
-<h2>🤝 Open to Collaborate</h2>
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+<h2>🤝 Collaboration</h2>
+I’m open to collaborating on:
 <ul>
   <li>Full Stack Web Applications</li>
   <li>SaaS Products & Platforms</li>
@@ -119,38 +139,46 @@
 </ul>
 </td>
 
-<td width="30%" align="center" valign="middle">
-    <img src="https://via.placeholder.com/220x180/1a0033/00ffcc?text=LET'S+BUILD" alt="Collaboration" />
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <img src="https://via.placeholder.com/200x180/1a0033/00ffcc?text=LET'S+BUILD" width="200px" alt="Collaboration" />
 </td>
 
-<td width="35%" valign="top" align="center">
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
 <h2>📫 Contact</h2>
 <br>
-<a href="https://www.linkedin.com/in/wasim-faris">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://wasim-faris.github.io/">
+  <img src="https://img.shields.io/badge/Personal%20Website-Coming%20Soon-00d4ff?style=for-the-badge&logo=google-chrome" alt="Personal website link">
 </a>
 <br><br>
 <a href="mailto:waseemfaris179@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/email-waseemfaris179%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+<a href="https://www.linkedin.com/in/wasim-faris">
+  <img src="https://img.shields.io/badge/linkedin-wasim--faris-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
 </a>
 </td>
 </tr>
 </table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
 
 <p align="center">
 ⚡ Building pixel-perfect, scalable, and production-ready web products
 </p>
 
 <p align="center">
-⭐ Star my repos if they helped you!
+Star ⭐ the repos if they helped you!
 </p>
 
-<!-- Thank You with SpongeBob -->
+<!-- Thank You -->
 <p align="center">
   <strong>Thank You for Visiting! 👋</strong><br><br>
   <img src="https://media.giphy.com/media/3o7aDgf7a4q9A1b8qE/giphy.gif" width="420" alt="SpongeBob Goodbye">
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100" alt="Profile footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
