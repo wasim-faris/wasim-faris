@@ -24,9 +24,9 @@
   />
 </p>
 
-<!-- Fixed Coding Animation -->
+<!-- Working Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC4/giphy.gif" width="450" alt="Funny Coding Animation">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Funny Coding Animation">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
