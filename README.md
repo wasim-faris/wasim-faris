@@ -55,27 +55,15 @@ class WasimFaris:
 
 **Languages**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SQL](https://skillicons.dev/icons?i=sqlite)](https://www.postgresql.org/)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Framer Motion](https://skillicons.dev/icons?i=framer)](https://framer.com/motion)
+[![My Skills](https://skillicons.dev/icons?i=django,react,tailwind,framer)](https://skillicons.dev)
 
 **Databases & Tools**
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+[![My Skills](https://skillicons.dev/icons?i=postgres,git,github,figma,vscode,postman)](https://skillicons.dev)
 
 </div>
 
@@ -137,8 +125,9 @@ class WasimFaris:
 **Stack**
 
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=3fb950)
-![DRF](https://img.shields.io/badge/DRF-092e20?style=flat-square&logo=django&logoColor=7ee787)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0d1117?style=flat-square&logo=razorpay&logoColor=3395ff)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=f24e1e)
@@ -178,9 +167,11 @@ class WasimFaris:
 
 </div>
 
+### 🟩 Contribution Calendar
+
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wasim-faris&bg_color=0d1117&color=3fb950&line=3fb950&point=7ee787&area=true&hide_border=true&area_color=0a2a0a&custom_title=Wasim's%20Contribution%20Graph"/>
+[![Wasim's github activity graph](https://ghchart.rshah.org/3fb950/wasim-faris)](https://github.com/wasim-faris)
 
 </div>
 
