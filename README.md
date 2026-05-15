@@ -24,13 +24,14 @@
   />
 </p>
 
+<!-- Fixed Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8vP7oq7p3qM/giphy.gif" width="450" alt="Funny Coding Animation">
+<img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC4/giphy.gif" width="450" alt="Funny Coding Animation">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
 
-<!-- System Access Section -->
+<!-- System Access -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&section=header&text=SYSTEM%20ACCESS&fontSize=30&animation=twinkling" alt="System access section title" />
 </p>
@@ -38,12 +39,6 @@
 <p align="center">
   <a href="https://wasim-faris.github.io/">
     <img width="82%" src="https://via.placeholder.com/1100x300/0a0a1f/00d4ff?text=🚀+MY+PORTFOLIO+COMING+SOON" alt="Wasim System portal" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/wasim-faris">
-    <img width="32%" src="https://via.placeholder.com/350x180/1a0033/00ffcc?text=SkillsSwapper" alt="SkillsSwapper" />
   </a>
 </p>
 
@@ -56,10 +51,8 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/wasim-faris)
 
 # 🛠 Technologies, Projects, and Domains
-
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<!-- LEFT: TOOLS -->
 <td width="420" valign="top" align="center">
 <h3>🛠 Technologies</h3>
 <br>
@@ -88,23 +81,21 @@
 </table>
 </td>
 
-<!-- PROJECTS -->
 <td width="260" valign="top" align="center">
 <h3>🚀 Projects</h3>
 <br>
 <div style="width:220px;">
   <a href="https://github.com/wasim-faris">
-    <img src="https://via.placeholder.com/220x220/1a0033/00ffcc?text=SkillsSwapper" width="220" alt="Projects navigation panel">
+    <img src="https://via.placeholder.com/220x220/1a0033/00ffcc?text=SkillsSwapper" width="220" alt="Projects">
   </a>
 </div>
 </td>
 
-<!-- DOMAINS -->
 <td width="260" valign="top" align="center">
 <h3>🌐 Domains</h3>
 <br>
 <div style="width:220px;">
-    <img src="https://via.placeholder.com/220x220/0f0f23/00d4ff?text=FULL+STACK+WEB+DEVELOPMENT" width="220" alt="Web Development">
+    <img src="https://via.placeholder.com/220x220/0f0f23/00d4ff?text=FULL+STACK+WEB" width="220" alt="Domains">
 </div>
 </td>
 </tr>
@@ -127,7 +118,6 @@
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
-<!-- LEFT: COLLAB -->
 <td width="33%" valign="top">
 <h2>🤝 Collaboration</h2>
 I’m open to collaborating on:
@@ -138,13 +128,9 @@ I’m open to collaborating on:
   <li>Modern E-commerce Solutions</li>
 </ul>
 </td>
-
-<!-- MIDDLE: PANEL -->
 <td width="34%" align="center" valign="middle">
     <img src="https://via.placeholder.com/200x180/1a0033/00ffcc?text=LET'S+BUILD" width="200px" alt="Collaboration" />
 </td>
-
-<!-- RIGHT: CONTACT -->
 <td width="33%" valign="top" align="center">
 <h2>📫 Contact</h2>
 <br>
@@ -173,7 +159,7 @@ I’m open to collaborating on:
 Star ⭐ the repos if they helped you!
 </p>
 
-<!-- Thank You -->
+<!-- Thank You with SpongeBob -->
 <p align="center">
   <strong>Thank You for Visiting! 👋</strong><br><br>
   <img src="https://media.giphy.com/media/3o7aDgf7a4q9A1b8qE/giphy.gif" width="420" alt="SpongeBob Goodbye">
