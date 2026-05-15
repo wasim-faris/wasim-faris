@@ -23,20 +23,20 @@
   />
 </p>
 
-<!-- Funny Coding Animation -->
+<!-- Better Cartoon Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Funny Coding Guy Animation">
+  <img src="https://media.giphy.com/media/3o7TKsQ8vP7oq7p3qM/giphy.gif" width="480" alt="Cartoon Coding Animation">
 </p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&section=header&text=SYSTEM%20ACCESS&fontSize=30&animation=twinkling" alt="System Access" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=SYSTEM%20ACCESS&fontSize=32&animation=twinkling" alt="System Access" />
 </p>
 
 <p align="center">
   <a href="https://wasim-faris.github.io/">
-    <img width="82%" src="https://via.placeholder.com/1100x280/0f0f23/00d4ff?text=👾+MY+PORTFOLIO+COMING+SOON" alt="Portfolio" />
+    <img width="85%" src="https://via.placeholder.com/1200x300/0a0a1f/00d4ff?text=🚀+MY+PORTFOLIO+%7C+COMING+SOON" alt="Portfolio" />
   </a>
 </p>
 
@@ -118,7 +118,7 @@
 </td>
 
 <td width="30%" align="center" valign="middle">
-  <img src="https://via.placeholder.com/220x160/1a0033/00ffcc?text=LET'S+BUILD" alt="Collab">
+  <img src="https://via.placeholder.com/220x160/1a0033/00ffcc?text=LET'S+BUILD+TOGETHER" alt="Collab">
 </td>
 
 <td width="35%" valign="top" align="center">
@@ -143,7 +143,7 @@
 ⭐ Star my repos if you found them useful!
 </p>
 
-<!-- Thank You Animation -->
+<!-- Thank You Section -->
 <p align="center">
   <strong>Thank You for Visiting! 👋</strong><br><br>
   <img src="https://media.giphy.com/media/3o7aDgf7a4q9A1b8qE/giphy.gif" width="420" alt="SpongeBob Goodbye">
