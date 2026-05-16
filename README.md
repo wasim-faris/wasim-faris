@@ -20,16 +20,17 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIo9ZSMnqjTKs/giphy.gif" width="420" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/wasim-faris/wasim-faris/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wasim-faris/wasim-faris/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+</p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
 
 ---
 
-<!-- ABOUT -->
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=wasim-faris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=00d4ff&icon_color=7b2cbf&text_color=a9b1d6&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
 
 ### 🧑‍💻 About Me
