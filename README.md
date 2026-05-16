@@ -24,12 +24,12 @@
   />
 </p>
 
-<!-- Working Coding Animation -->
+<!-- Coding Animation -->
 <p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Funny Coding Animation">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Coding Animation">
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/wasim-faris)
 
 <!-- System Access -->
 <p align="center">
@@ -42,15 +42,10 @@
   </a>
 </p>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/wasim-faris)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=CORE+STACK&fontSize=28&animation=twinkling" alt="System core panel" />
-</p>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/wasim-faris)
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/wasim-faris)
 
 # 🛠 Technologies, Projects, and Domains
+
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td width="420" valign="top" align="center">
@@ -86,7 +81,7 @@
 <br>
 <div style="width:220px;">
   <a href="https://github.com/wasim-faris">
-    <img src="https://via.placeholder.com/220x220/1a0033/00ffcc?text=SkillsSwapper" width="220" alt="Projects">
+    <img src="https://via.placeholder.com/220x220/1a0033/00ffcc?text=SkillsSwapper" width="220" alt="SkillsSwapper">
   </a>
 </div>
 </td>
@@ -95,13 +90,13 @@
 <h3>🌐 Domains</h3>
 <br>
 <div style="width:220px;">
-    <img src="https://via.placeholder.com/220x220/0f0f23/00d4ff?text=FULL+STACK+WEB" width="220" alt="Domains">
+    <img src="https://via.placeholder.com/220x220/0f0f23/00d4ff?text=FULL+STACK+WEB+DEVELOPMENT" width="220" alt="Web Development">
 </div>
 </td>
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/wasim-faris)
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/wasim-faris)
 
 ### 📊 Vital Statistics
 <p align="center">
@@ -114,7 +109,7 @@
   <img src="https://komarev.com/ghpvc/?username=wasim-faris&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -134,22 +129,16 @@ I’m open to collaborating on:
 <td width="33%" valign="top" align="center">
 <h2>📫 Contact</h2>
 <br>
-<a href="https://wasim-faris.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-Coming%20Soon-00d4ff?style=for-the-badge&logo=google-chrome" alt="Personal website link">
-</a>
-<br><br>
 <a href="mailto:waseemfaris179@gmail.com">
-  <img src="https://img.shields.io/badge/email-waseemfaris179%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+  <img src="https://img.shields.io/badge/Email-waseemfaris179%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 <br><br>
 <a href="https://www.linkedin.com/in/wasim-faris">
-  <img src="https://img.shields.io/badge/linkedin-wasim--faris-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+  <img src="https://img.shields.io/badge/LinkedIn-Wasim%20Faris-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 </td>
 </tr>
 </table>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
 
 <p align="center">
 ⚡ Building pixel-perfect, scalable, and production-ready web products
@@ -159,10 +148,9 @@ I’m open to collaborating on:
 Star ⭐ the repos if they helped you!
 </p>
 
-<!-- Thank You with SpongeBob -->
+<!-- Premium Thank You -->
 <p align="center">
-  <strong>Thank You for Visiting! 👋</strong><br><br>
-  <img src="https://media.giphy.com/media/3o7aDgf7a4q9A1b8qE/giphy.gif" width="420" alt="SpongeBob Goodbye">
+  <h2>Thank You for Visiting! 👋</h2>
 </p>
 
 <p align="center">
