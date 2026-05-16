@@ -256,15 +256,6 @@ class WasimFaris:
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/wasim-faris)
 
 ---
-
-### 🎵 Spotify — Now Playing
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d1f&interchange=false&bar_color=00d4ff&bar_color_cover=true" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
 ---
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
